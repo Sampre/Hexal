@@ -4,10 +4,10 @@
 
 Сверстал небольшой макет + добавил адаптивность.  
 
-##При разработке пользовался:
-*Jquery
-*Flickity(удобный слайдер)
-*Font-awesome
-*Respond+html5shiv
+## При разработке пользовался:
+* Jquery
+* Flickity(удобный слайдер)
+* Font-awesome
+* Respond+html5shiv
 
 
