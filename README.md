@@ -9,5 +9,3 @@
 * Flickity(удобный слайдер)
 * Font-awesome
 * Respond+html5shiv
-
-
